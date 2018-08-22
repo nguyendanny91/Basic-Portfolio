@@ -1,0 +1,17 @@
+body {
+    background-image: url(../images/bananas.png);
+}
+
+.YourName {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: white;
+    background: #4aaaa5;
+    line-height: 50px;
+}
+
+.bodyBorder {
+    border: solid;
+    border-color: #dddddd; 
+    background-color: #ffffff;
+    width: 500px;
+}

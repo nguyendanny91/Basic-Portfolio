@@ -98,7 +98,7 @@ body {
     color: #b2a795;
     font-size: 10px;
     position: absolute;
-    bottom: 0px;
+    bottom: -50%;
     width: 100%;
 }
 
